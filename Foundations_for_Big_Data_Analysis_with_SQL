@@ -2,4 +2,9 @@
  Database is an organized data store
  Database management system (DBMS) is type of software that helps you organize data
  Database system is a combination of your database and the DBMS software you use
+ DBMS:
+ -Design (CREATE, ALTER, DROP) DDL (Data Definition Language)
+ -Update (INSERT, UPDATE, DELETE) DML (Data Manipulation Language)
+ -Retrieve (SELECT) Data Query Language category (DQl)
+ -Manage (GRANT, REVOKE) Data Control Language (DCL)
  
