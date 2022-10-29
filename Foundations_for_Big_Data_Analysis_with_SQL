@@ -8,3 +8,8 @@
  -Retrieve (SELECT) Data Query Language category (DQl)
  -Manage (GRANT, REVOKE) Data Control Language (DCL)
  
+ Operational database:
+ Сurrent state
+ Analytics databases:
+ Static, historical data
+ 
