@@ -13,3 +13,11 @@
  Analytics databases:
  Static, historical data
  
+ BLOB (Binare large object)
+ -media file up to 4gb
+ CLOB (Charter large object)
+ -HTML page or complete book up to 4 gb
+ 
+ 
+ 
+ 
