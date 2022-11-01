@@ -18,6 +18,29 @@
  CLOB (Charter large object)
  -HTML page or complete book up to 4 gb
  
+ Primary key
+ -Not null
+ -Unique
+ -Immutability
+ 
+ Foreign key
+ -Not null
+ -FK compound makes PK
+ 
+ Database design
+ 
+ Database normalization
+ Third normal form
+ -Primary key
+ -Atomic columns
+ -No repeating groups
+ -Non-key columns describe only the whole key
+ -No derived columns
+ 
+ 
+ Database denormalization
+ 
+
  
  
  
