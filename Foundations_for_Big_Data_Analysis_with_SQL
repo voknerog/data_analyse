@@ -37,8 +37,17 @@
  -Non-key columns describe only the whole key
  -No derived columns
  
- 
  Database denormalization
+ -Allowing duplicate rows
+ -Pre-joined tables
+ -Derived columns
+ -Summary tables
+ 
+ Differences:
+ 1. Limiting data anomalies
+ 2. Enforcing data structure
+ 3. Size
+ 4. SELECT speed
  
 
  
