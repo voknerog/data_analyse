@@ -53,8 +53,9 @@
  -Give operational databases a powerfull way to enpower business rules at the database level
  -Cascading DML
  Stored procedures
- -Ruotines in database
+ -Routines in database
  
+Online Transaction Processing  (OLTP)
 
  
  
