@@ -61,6 +61,11 @@ Hadoop Distributed File System (HDFS)
 1 block usually 128mb
 3 copies of each block stores in HDFS
 
+Digital data:
+-Structured (data conforms sturture)
+-Semi-structured
+-Unstractured
+
 
  
  
