@@ -64,7 +64,7 @@ Hadoop Distributed File System (HDFS)
 Digital data:
 -Structured (data conforms sturture)
 -Semi-structured
--Unstractured
+-Unstractured (BLOB - binary large object, CLOB character large object)
 
 
  
